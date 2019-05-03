@@ -1,0 +1,8 @@
+.ipynb_*/
+bin/
+etc/
+include/
+lib/
+share/
+.Python
+pip-selfcheck.json
